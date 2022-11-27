@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63590550249846efc3b4c3b4"
+  },
+  "nom": "Australienne",
+  "type": "Pizza",
+  "aliments": [
+    {
+      "quantite": "1",
+      "_id": {
+        "$oid": "63590550249846efc3b4c3b5"
+      },
+      "id": "63593cfdf352c21adc83d4b9"
+    }
+  ],
+  "prix": 12,
+  "description": "Crème fraîche légère française, mozzarella, champignons de Paris, oignons, haché au bœuf assaisonné, sauce barbecue.",
+  "image": "https://www.dominos.fr/ManagedAssets/FR/product/PAU2/FR_PAU2_fr_hero_10165.png?v963304490",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63590563249846efc3b4c3b7"
+  },
+  "nom": "Savoyarde",
+  "type": "Pizza",
+  "aliments": [
+    {
+      "quantite": "1",
+      "_id": {
+        "$oid": "63590563249846efc3b4c3b8"
+      },
+      "id": "63593cfdf352c21adc83d4b9"
+    }
+  ],
+  "prix": 12,
+  "description": "Crème fraîche légère française, mozzarella, lardons fumés, pommes de terre françaises sautées, Reblochon de Savoie AOP, origan.",
+  "image": "https://www.dominos.fr/ManagedAssets/FR/product/PSVY/FR_PSVY_all_hero_9653.png?v758907665",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63590584249846efc3b4c3ba"
+  },
+  "nom": "4 fromages",
+  "type": "Pizza",
+  "aliments": [
+    {
+      "quantite": "1",
+      "_id": {
+        "$oid": "63590584249846efc3b4c3bb"
+      },
+      "id": "63593cfdf352c21adc83d4b9"
+    },
+    {
+      "id": "63594081f141e568656146ef",
+      "quantite": "0.5"
+    }
+  ],
+  "prix": 12,
+  "description": "Sauce tomate, mozzarella, chèvre, emmental, Fourme d’Ambert AOP.",
+  "image": "https://www.dominos.fr/ManagedAssets/FR/product/P4FR/FR_P4FR_all_hero_9653.png?v562748676",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63590584249846efc3b4c3bd"
+  },
+  "nom": "INDIENNE",
+  "type": "Pizza",
+  "aliments": [
+    {
+      "quantite": "1",
+      "_id": {
+        "$oid": "63590584249846efc3b4c3be"
+      },
+      "id": "63593cfdf352c21adc83d4b9"
+    }
+  ],
+  "prix": 12,
+  "description": "Crème fraîche légère française, mozzarella, oignons, poulet rôti*, champignons de Paris, emmental.",
+  "image": "https://www.dominos.fr/ManagedAssets/FR/product/PIND/FR_PIND_fr_hero_9653.png?v1608185512",
+  "__v": 0
+}]
